@@ -1,0 +1,37 @@
+run:
+Do you want to check the K-anonmous of the adults.txt file?
+Please enter (Y/N)?
+Y
+-----------------------------------------------
+Data is read from the adults.txt file
+QID Data File with the name QIDData.txt is created 
+-----------------------------------------------
+Please Enter the K Value
+5
+The given adults.txt file is not K-anonmous
+-----------------------------------------------
+The below generation data tables are K-anonmous
+-----------------------------------------------
+Gender=0 Age=2 Worktype=2 Precsion=0.5555556
+Gender=0 Age=3 Worktype=2 Precsion=0.5
+Gender=0 Age=4 Worktype=2 Precsion=0.44444442
+Gender=0 Age=5 Worktype=2 Precsion=0.3888889
+Gender=0 Age=6 Worktype=2 Precsion=0.3333333
+Gender=1 Age=1 Worktype=2 Precsion=0.27777785
+Gender=1 Age=2 Worktype=2 Precsion=0.22222215
+Gender=1 Age=3 Worktype=2 Precsion=0.16666669
+Gender=1 Age=4 Worktype=2 Precsion=0.111111104
+Gender=1 Age=5 Worktype=2 Precsion=0.055555582
+Gender=1 Age=6 Worktype=2 Precsion=0.0
+-----------------------------------------------
+The best precision value is = 0.5555556
+-----------------------------------------------
+The below generations have the same best precision
+ Gender=0 Age=2 Worktype=2
+Please check the file Output1.txt for data
+-----------------------------------------------
+Do you want to check the K-anonmous of the adults.txt file?
+Please enter (Y/N)?
+N
+BUILD SUCCESSFUL (total time: 5 seconds)
+

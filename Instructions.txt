@@ -1,0 +1,10 @@
+1)Please find the Source Code in the Privacy_Project1 folder.
+2)This code is written in java language and executed in the Net beans IDE.
+3)Please check the below text files present in the Privacy_Project1 folder. 
+     * Console_commands
+     * Adults.txt     -- input file
+     * QIDData.txt    -- QID file (generated from the program)	 
+     * Output1.txt    -- output file (generated from the program)	
+4)Please run the program and enter 'Y' from the console if you would like to proceed,Otherwise 'N'.
+5)Algorithm summary can be found in Assignment2-Alg-Summary.pdf file.
+
